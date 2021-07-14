@@ -20,7 +20,7 @@ then paste the code within the if condition
   <button class="btn js-load-more">
     <span load-more-text>SHOW MORE STYLES</span>
     <span class="hide" loader>
-      <img src="{{ 'loader.gif' | asset_url }}"/>
+      <img src="{{ 'custom.gif' | asset_url }}"/>
     </span>
   </button>
 </div>  
